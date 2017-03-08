@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="32"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   inkscape:export-filename="/Users/stephane/Desktop/tortue.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="lapintortue.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2602"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3459"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     gridtolerance="5">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2383"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="tortue"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -1.5038415e-07,19.023293 C 2.5679285,6.9087824 20.19534,-3.7415442 30.815145,15.402501 C 31.035082,15.93435 31.737318,15.9839 32.527096,15.945909 C 33.691443,14.429583 35.067135,13.335953 36.806977,12.970626 C 41.202215,13.746537 39.974759,15.771933 39.374906,17.657861 C 37.18023,20.13692 33.606028,20.374254 30.321171,21.081766 C 31.72766,22.03014 33.258037,22.916569 35.095024,23.649695 C 34.293865,25.463502 33.214825,25.610039 32.212628,26.217623 C 30.427933,25.361434 29.025985,24.292609 27.889296,23.076418 C 27.098061,22.803591 26.328103,22.637149 25.679288,23.076418 C 24.567589,23.941083 24.948934,24.805751 24.823311,25.670416 L 25.679288,28.318459 C 23.810573,28.362964 21.796469,28.665942 20.54343,27.615918 C 19.842944,26.120765 20.475229,24.625612 20.54343,23.130458 C 18.231687,23.684086 15.935834,23.93585 13.69562,23.130458 C 13.485407,23.707399 13.084498,24.268447 13.69562,24.913834 C 15.015146,25.800173 15.377874,26.47389 15.407572,27.0736 C 12.935647,28.467702 12.042335,27.44126 10.541923,27.345709 C 9.9650116,25.912185 9.9718495,24.029623 8.5597622,23.23854 L 7.7037859,23.076418 C 7.1936031,24.728625 6.2169643,25.564534 5.1358572,26.217623 C 4.0827991,26.327456 3.1720896,26.433274 2.5679285,25.778499 C 2.3611909,24.679078 2.1290277,23.855033 2.3787826,23.076416 C 2.7617373,22.211751 3.6754628,21.401124 5.1358572,20.536459 C 3.3487349,20.10724 1.0167764,20.222857 -1.5038415e-07,19.023293 z"
+       id="path2608"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Users/stephane/Desktop/tortue.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="lapin"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16.746001,30.494305 L 5.4758117,30.774945 C 1.6317007,29.326441 0.50913172,28.072332 0.055975722,26.866039 C -0.19494928,25.657142 0.41690772,25.389463 1.5072827,25.643801 L 2.9585887,26.514263 C 2.7620607,24.163965 2.7902727,21.838637 3.6842427,19.609506 C 6.4652217,14.662173 9.2462017,13.029498 12.027182,13.078627 C 14.944753,13.34718 17.228848,13.774102 18.197308,14.529933 C 20.3493,14.84928 21.742587,13.51327 22.551227,10.901667 C 22.946371,10.516584 22.753138,10.131501 22.551227,9.7464187 C 19.706293,6.1079767 20.374268,3.2325987 21.099921,2.6452827 C 21.546381,2.6620637 21.986206,2.6655767 22.551227,2.9194807 C 22.596211,1.6983367 22.865826,1.2259619 23.276881,1.2250553 C 27.076776,3.3092787 26.383781,5.6833647 26.595964,7.9990537 C 26.998714,8.4721537 27.35015,8.7399997 27.6308,8.7247067 C 31.490093,10.464734 31.211669,12.817756 31.98472,15.015004 C 32.091705,15.82201 31.61423,16.044559 31.259067,16.389417 L 27.6308,16.340383 L 27.6308,21.786466 C 27.21624,23.265143 26.116279,24.315444 24.728187,25.185663 C 24.684823,26.229557 25.754966,27.273451 26.504337,28.317345 C 27.139561,28.541378 28.1562,28.383995 28.356454,29.042999 C 28.83515,29.813985 28.427777,30.05333 28.356454,30.494305 L 25.084109,30.494305 C 22.693619,28.994 21.381369,27.134282 19.648614,25.414732 C 18.757573,24.918568 18.126832,25.203303 17.471655,25.414732 L 15.050891,27.591692 C 16.699321,27.83503 17.533516,28.311006 17.471655,29.042999 C 17.477141,29.58861 17.672405,30.181666 16.746001,30.494305 z"
+       id="path3465"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
