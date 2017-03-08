@@ -22,7 +22,8 @@
 	self.myViewController = [[MyViewController alloc] initWithNibName:nil bundle:nil window:window]; 
 	[self.myViewController release];
 	
-    [window addSubview:self.myViewController.view];
+    window.rootViewController = self.myViewController;
+    
     [window makeKeyAndVisible];
 }
 
